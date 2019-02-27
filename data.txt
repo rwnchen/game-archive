@@ -1,0 +1,9 @@
+The Binding of Isaac: Rebirth~Nicalis, Inc.|Edmund McMillen~2014~action|indie|rogue-like|difficult|dark~img/TheBindingofIsaacRebirth.jpg
+Dishonored~Arkane Studios~2012~action|adventure|stealth|first-person|dark~img/Dishonored.jpg
+FEZ~Polytron Corporation~2013~indie|platformer|puzzle|exploration~img/Fez.png
+Mass Effect~BioWare~2008~action|rpg|sci-fi~img/masseffect.jpg
+Stardew Valley~ConcernedApe~2016~indie|rpg|simulation~img/stardewvalley.png
+Lethal League~Team Reptile~2014~fighter|multiplayer|action|indie|sports~img/lethalleague.png
+Dead Cells~Motion Twin~2018~Rogue-like|Pixel Graphics|Metroidvania|Action~https://store-images.s-microsoft.com/image/apps.40300.68724117649475771.eac68952-84aa-42f0-875b-09de4c2ee208.400f5d27-ba33-4b31-afc3-474baf8115c7?mode=scale&q=90&h=1080&w=1920
+Divinity: Original Sin~Larian Studios~2015~RPG|Turn-based|Co-op|Adventure|Fantasy~https://ksr-ugc.imgix.net/assets/011/486/970/84690967bfe04d1331cc20a4950b72a1_original.jpg?ixlib=rb-1.1.0&crop=faces&w=1552&h=873&fit=crop&v=1463683432&auto=format&frame=1&q=92&s=477a8a89e2387e8fd29004593605f5fb
+Hollow Knight~Team Cherry~2017~Metroidvania|Great Soundtrack|Difficult|2D~http://assets1.ignimgs.com/2018/06/21/hollowknight-1280-1529623462572_1280w.jpg
